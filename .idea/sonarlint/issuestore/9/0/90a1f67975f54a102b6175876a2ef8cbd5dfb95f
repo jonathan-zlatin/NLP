@@ -14,11 +14,11 @@ Spython:S1172Ç"5Remove the unused function parameter "data_iterator".(ĞÿÙ­üÿ
 6python:S3626Ï"Remove this redundant return.(ÙãŞŸ
 Fpython:S1172Ò"-Remove the unused function parameter "model".(îƒ”Ö
 6python:S3626Ü"Remove this redundant return.(ÙãŞŸ
-Kpython:S1172ß"-Remove the unused function parameter "model".(¿ªªòùÿÿÿÿ
-Npython:S1172ß"0Remove the unused function parameter "n_epochs".(¿ªªòùÿÿÿÿ
 Rpython:S1172ß"4Remove the unused function parameter "weight_decay".(¿ªªòùÿÿÿÿ
 Hpython:S1172ß"*Remove the unused function parameter "lr".(¿ªªòùÿÿÿÿ
+Kpython:S1172ß"-Remove the unused function parameter "model".(¿ªªòùÿÿÿÿ
 Rpython:S1172ß"4Remove the unused function parameter "data_manager".(¿ªªòùÿÿÿÿ
+Npython:S1172ß"0Remove the unused function parameter "n_epochs".(¿ªªòùÿÿÿÿ
 6python:S3626é"Remove this redundant return.(ÙãŞŸ
 6python:S3626ğ"Remove this redundant return.(ÙãŞŸ
 6python:S3626ø"Remove this redundant return.(ÙãŞŸ
