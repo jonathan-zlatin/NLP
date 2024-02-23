@@ -1,0 +1,6 @@
+
+upython:S5717"]Change this default value to "None" and initialize this parameter inside the function/method.(Ñ—å¯
+lpython:S3776J"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(¥µß∂
+mpython:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(»ùì˙
+Upython:S5754ì"<Specify an exception class to catch or reraise the exception(à …∑
+vpython:S2737ª"XAdd logic to this except clause or eliminate it and rethrow the exception automatically.(œıÓÀ˚ˇˇˇˇ
