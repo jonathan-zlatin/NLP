@@ -3,14 +3,10 @@ D
 NLP_P2/.venv/main.py,6/4/64858e87feb08cdd2ec95c04c36db2702685cd74
 E
 NLP_P2/.venv/tests.py,1/8/18701c9693266f0f19453bae95350c080f7b4057
-=
-NLP_P1/ex1.py,f/2/f20be3ffc23d0bd402021e280e24a2346150e64d
 O
 NLP_P3/Ex3_utils/data_loader.py,4/b/4b6af8e46c4776f6e07cc820aaa91ea391da9971
 S
 #NLP_P3/Ex3_utils/exercise_blanks.py,9/0/90a1f67975f54a102b6175876a2ef8cbd5dfb95f
-?
-NLP_P1/main3.py,5/4/54984d39ec25bf0e5b93f40eb3e4e03e88de1eb7
 >
 NLP_P1/main.py,3/a/3a5c7a6f32f10aefa2bc0b263fe5007006a8450e
 K
